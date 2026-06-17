@@ -1,7 +1,8 @@
 This repository provides the data and source code used to reproduce the computational experiments reported in the manuscript. The model evaluates cooperative pricing strategies between public transport (PT) and ride-hailing (RH) under a stochastic user equilibrium framework.
 
 1. Repository Structure
-
+```text
+.
 ├── data/
 │   ├── OD_demand.csv
 │   ├── road_network.gpkg
@@ -11,7 +12,8 @@ This repository provides the data and source code used to reproduce the computat
 │   ├── main.py
 │   └── model1.py
 │   
-└── README.txt
+└── README.md
+```
 
 2. Requirements
 
