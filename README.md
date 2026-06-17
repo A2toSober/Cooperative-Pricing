@@ -3,15 +3,16 @@ This repository provides the data and source code used to reproduce the computat
 1. Repository Structure
 ```text
 .
-├── data/
-│   ├── OD_demand.csv
-│   ├── road_network.gpkg
-│   ├── car_ksp_ps_results.csv
-│   └── bus_od2od_shortest.csv
-├── code/
-│   ├── main.py
-│   └── model1.py
-│   
+├── Solution/
+│   ├── data/
+│   │   ├── OD_demand.csv
+│   │   ├── road_network.gpkg
+│   │   ├── car_ksp_ps_results.csv
+│   │   └── bus_od2od_shortest.csv
+│   └── code/
+│       ├── main.py
+│       └── model1.py
+├── LICENSE
 └── README.md
 ```
 
